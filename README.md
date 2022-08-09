@@ -20,21 +20,21 @@ I'm Ben, a Aerospace Engineering Manager (Avionics, Electronic and Electrical Sy
 
 #### Master of Science (MSc.), Applied Artificial Intelligence
 
-* Centre for Autonomous and Cyber-Physical Systems, Cranfield University, United Kingdom. *
+*Centre for Autonomous and Cyber-Physical Systems, Cranfield University, United Kingdom.*
 
 Topics included Statistical Learning, Deep Learning, Computer Vision, Search & Optimisation, Intelligent Agents, Bayesian Techniques, Systems Engineering, Coding and Development (Python & MATLAB), Data Visualisation and Analytics, Reinforcement Learning, AI Research. Publication of multiple formal papers in the field of Applied-AI through the IEEE. Presentation of research at two international technology conferences.
 
 
 #### Bachelor of Engineering (Honours), General Engineering and Engineering Design
 
-* Open University, Milton Keynes, United Kingdom. *
+*Open University, Milton Keynes, United Kingdom.*
 
 Final dissertation on Stress Mechanics and Design included multi-dimensional Finite Element Analysis (FEA), with application of scientific and numerical computing in Python.
 
 
 #### Bachelor of Science (BSc.), Electronic Systems Engineering
 
-* University of Portsmouth, United Kingdom *
+*University of Portsmouth, United Kingdom*
 
 Two major projects undertaken, including an electronic system design, and an aviation system research project based on Electronic Warfare and Infrared Missile technologies.
 
