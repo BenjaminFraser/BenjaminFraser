@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Ben, a Aerospace Engineering Manager (Avionics, Electronic and Electrical Systems), Data Science Practitioner and Technology Enthusiast. I have a specialist focus on Applied AI, Machine Learning and Data Science Technologies. My past experience in software, data science and programming dates back over a decade, with expertise developed on a range of professional and personal projects in that time.
+I'm Ben, a Aerospace Engineering Manager (Avionics, Electronic and Electrical Systems) and Data Science Practitioner. I have a specialist focus on Applied AI techniques, Machine Learning and Data Science Technologies. My past experience in software, data science and programming dates back over a decade, with expertise developed on a range of professional and personal projects in that time. I love working with technology, learning new skills, and working across a variety of programming languages, however, my main efforts do tend to focus around Python-based development.
 
 
 ### Some past projects:
