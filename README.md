@@ -1,4 +1,4 @@
-### Welcome! 👋
+### Hey! 👋
 
 I'm Ben, a Aerospace Engineering Manager (Avionics, Electronic and Electrical Systems), Data Science Practitioner and Technology Enthusiast. I have a specialist focus on Applied AI, Machine Learning and Data Science Technologies. My past experience in software, data science and programming dates back over a decade, with expertise developed on a range of professional and personal projects in that time.
 
