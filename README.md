@@ -7,7 +7,7 @@ I'm Ben, a Aerospace Engineering Manager (Avionics, Electronic and Electrical Sy
 
 - Development of an **Integrated Crowd-Monitoring and Social Distancing Platform** that exploits video surveillance data and novel comuter-vision techniques. Application of Deep Computer Vision, including Crowd-Pose Estimation, Object Detection, Target Tracking and Automated Homography. Research published through MFI2022 conference. Source code available: https://github.com/BenjaminFraser/Social-Distancing-Pose-Platform.
 
-![Crowd-Monitoring Platform Example](examples/crowd_monitoring_1.png?raw=True "Example of Crowd-Monitoring Platform")
+![Crowd-Monitoring Platform Example](examples/crowd_monitoring.png?raw=True "Example of Crowd-Monitoring Platform")
 
 - Development of a **Digital-Twin based Novelty Detection Framework for Unmanned Aerial Systems**, through the application of Deep Unsupervised Learning (Autoencoder-based) techniques. Published through IEEE as part of DASC2021 conference: https://ieeexplore.ieee.org/document/9594321/.
 
