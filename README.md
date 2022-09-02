@@ -8,7 +8,8 @@ I'm Ben, a Aerospace Engineering Manager (Avionics, Electronic and Electrical Sy
 - Development of an **Integrated Crowd-Monitoring and Social Distancing Platform** that exploits video surveillance data and novel comuter-vision techniques. Application of Deep Computer Vision, including Crowd-Pose Estimation, Object Detection, Target Tracking and Automated Homography. Research published through MFI2022 conference. Source code available: https://github.com/BenjaminFraser/Social-Distancing-Pose-Platform.
 
 <p align="center">
-	<img src="examples/crowd_monitoring.png" width="200" height="200"  />
+	<img src="examples/crowd_monitoring.png" width="200" height="200"
+	 href="https://github.com/BenjaminFraser/Social-Distancing-Pose-Platform"  />
 </p>
 
 - Development of a **Digital-Twin based Novelty Detection Framework for Unmanned Aerial Systems**, through the application of Deep Unsupervised Learning (Autoencoder-based) techniques. Published through IEEE as part of DASC2021 conference: https://ieeexplore.ieee.org/document/9594321/.
@@ -18,6 +19,11 @@ I'm Ben, a Aerospace Engineering Manager (Avionics, Electronic and Electrical Sy
 - Development of an **Object Detection framework for the detection and classification of objects within satellite imagery**, with a focus on Defence context. This included an end-to-end framework developed in PyTorch, with a custom-tuned Faster-RCNN architecture to work with satellite based imagery. Key features included a bespoke preprocessing phase that better prepared satellite imagery objects for classification through tiling and data-augmentation.
 
 - Development of an **Object Detection Model for the analysis of Face Mask usage within complex scenes**. Built using a Faster RCNN object detector fine-tuned in PyTorch using a custom mask object detection dataset, with a focus on complex scenes that are representative of real world applications and camera surveillance feeds. Once the model was trained and optimised for the task, an inference dashboard was developed in Dash to allow new predictions to be made on selected images. Source code and project summary available at: https://github.com/BenjaminFraser/Mask-Object-Detection. 
+
+<p align="center">
+	<img src="examples/mask_detection.png" width="600" height="200"
+	 href="https://github.com/BenjaminFraser/Mask-Object-Detection"  />
+</p>
 
 - An **Image Classification Web Application**, built using Flask, Bootstrap and JS to allow for the uploading of a given image that is subsequently classified. The preparation and formation of a deep convolutional network model was performed, making use of transfer-learning and fine-tuning of the Inception architecture. The application will classify images according to the specific transfer learning task carried out (the app was demonstrated with different dog breeds). Source code available at: https://github.com/BenjaminFraser/Dog-Breed-Classifier-App.
 
