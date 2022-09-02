@@ -32,7 +32,7 @@ A NLP application that develops a **Multi-Modal Text (NLP) and Tabular Classific
 Development of an **Object Detection framework for the detection and classification of objects within satellite imagery**, with a focus on Defence context. This included an end-to-end framework developed in PyTorch, with custom fine-tuned Faster-RCNN and YOLOv5 variants to work with satellite based imagery. Key features included a bespoke preprocessing phase that better prepared satellite imagery objects for classification through tiling and data-augmentation.
 
 <p align="center">
-	<img src="examples/satellite_imagery.png" width="600" height="200"  />
+	<img src="examples/satellite_imagery.png" width="500" height="200"  />
 </p>
 
 
