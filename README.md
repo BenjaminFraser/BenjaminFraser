@@ -21,7 +21,7 @@ I'm Ben, a Aerospace Engineering Manager (Avionics, Electronic and Electrical Sy
 - Development of an **Object Detection Model for the analysis of Face Mask usage within complex scenes**. Built using a Faster RCNN object detector fine-tuned in PyTorch using a custom mask object detection dataset, with a focus on complex scenes that are representative of real world applications and camera surveillance feeds. Once the model was trained and optimised for the task, an inference dashboard was developed in Dash to allow new predictions to be made on selected images. Source code and project summary available at: https://github.com/BenjaminFraser/Mask-Object-Detection. 
 
 <p align="center">
-	<img src="examples/mask_detection.png" width="600" height="200"
+	<img src="examples/Mask_detection.png" width="600" height="200"
 	 href="https://github.com/BenjaminFraser/Mask-Object-Detection"  />
 </p>
 
