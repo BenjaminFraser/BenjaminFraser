@@ -27,6 +27,11 @@ I'm Ben, a Aerospace Engineering Manager (Avionics, Electronic and Electrical Sy
 
 - An **Image Classification Web Application**, built using Flask, Bootstrap and JS to allow for the uploading of a given image that is subsequently classified. The preparation and formation of a deep convolutional network model was performed, making use of transfer-learning and fine-tuning of the Inception architecture. The application will classify images according to the specific transfer learning task carried out (the app was demonstrated with different dog breeds). Source code available at: https://github.com/BenjaminFraser/Dog-Breed-Classifier-App.
 
+<p align="center">
+	<img src="examples/dog_breed_classifier.png" width="600" height="300"
+	 href="https://github.com/BenjaminFraser/Mask-Object-Detection"  />
+</p>
+
 - A **Python GUI application that uses Tkinter, matplotlib, numpy, scipy and other scientific computing libraries to provide classical and digital electronic and control engineering functions for graphical analysis**. Developed whilst conducting a BSc in Electronics Systems Engineering, to support cohorts (and wider electronic engineering community via GitHub) in forming control engineering plots and visualisations. Available at: https://github.com/BenjaminFraser/Control_engineering_apps. 
 
 
