@@ -12,7 +12,7 @@ I have a specialist focus on Applied AI techniques, Machine Learning and Data Sc
 Development of an **Integrated Crowd-Monitoring and Social Distancing Platform** that exploits video surveillance data and novel comuter-vision techniques. Application of Deep Computer Vision, including Crowd-Pose Estimation, Object Detection, Target Tracking and Automated Homography. Research published through MFI2022 conference. Source code available: https://github.com/BenjaminFraser/Social-Distancing-Pose-Platform.
 
 <p align="center">
-	<img src="examples/crowd_monitoring.png" width="200" height="200"
+	<img src="examples/crowd_pose_monitoring.png" width="200" height="200"
 	 href="https://github.com/BenjaminFraser/Social-Distancing-Pose-Platform"  />
 </p>
 
