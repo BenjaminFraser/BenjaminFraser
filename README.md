@@ -66,6 +66,20 @@ A **Python GUI application that uses Tkinter, matplotlib, numpy, scipy and other
 </p>
 
 
+### Word Document Directory to PDF Conversion Application
+
+A **Python Application implemented in Flask with LibreOffice backend** to convert a large (or small) directory of word and excel documents into a single PDF document. The final PDF is ordered according to the names of the directories in the uploaded zip file, and each directory in-turn is ordered numberically by the files within. User access is required on the application before any finals can be amended or converted. Available at: https://github.com/BenjaminFraser/word-to-pdf
+
+
+
+### Intrusion Monitoring System
+
+An Intrusion Monitoring System built using a combination of many technologies, both hardware and software, to create a robust and reliable system that makes detections of intruders or motion at a chosen location. For the system, a combination of Arduinos and Raspberry Pi Devices are used to develop a network of communication nodes (using nRF24L01+ radio transceivers) and radar detection nodes (using custom-built HB100 X-Band Radar Doppler motion sensors).
+
+The system continuously monitors the regions where the nodes are deployed, and sends an alarm to the central system on detection of an intrusion. All detections and the status of each region are monitored using a Flask web application, which provides real-time status updates on detections. Source code available at: https://github.com/BenjaminFraser/Intrusion_monitoring_system.
+
+Blog post available at: https://medium.com/@benjamindavidfraser/arduino-nrf24l01-communications-947e1acb33fb
+
 
 ## My Education
 
