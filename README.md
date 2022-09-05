@@ -71,7 +71,7 @@ A **Python GUI application that uses Tkinter, matplotlib, numpy, scipy and other
 A **Python Application implemented in Flask with LibreOffice backend** to convert a large (or small) directory of word and excel documents into a single PDF document. The final PDF is ordered according to the names of the directories in the uploaded zip file, and each directory in-turn is ordered numberically by the files within. User access is required on the application before any finals can be amended or converted. Available at: https://github.com/BenjaminFraser/word-to-pdf
 
 <p align="center">
-	<img src="examples/word_pdf.png" width="650" height="200"  />
+	<img src="examples/word_pdf.png" width="600" height="200"  />
 </p>
 
 
@@ -84,7 +84,7 @@ The system continuously monitors the regions where the nodes are deployed, and s
 Blog post available at: https://medium.com/@benjamindavidfraser/arduino-nrf24l01-communications-947e1acb33fb
 
 <p align="center">
-	<img src="examples/intrusion_monitoring.png" width="650" height="200"  />
+	<img src="examples/intrusion_monitoring.png" width="600" height="200"  />
 </p>
 
 
