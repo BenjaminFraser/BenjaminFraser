@@ -1,9 +1,8 @@
 ## Hey! 👋
 
-I'm Ben, a Aerospace Engineer (Avionics, Electronic and Electrical Systems) and Data Science Practitioner. 
+I'm Ben, a multi-disciplinary engineer, currently Technical Director at Marlborough Communications Limited. Specialisms across a range of fields, including technical leadership, hardware design, electronics, communications, sensors, communications, robotics, embedded software development, and applied ML.
 
-I have a specialist focus on Applied AI techniques, Machine Learning and Data Science Technologies. My experience in software, data science and programming extends over a decade, with expertise developed on a range of professional and personal projects in that time. I love working with technology, learning new skills, and working across a variety of programming languages. Currently my main efforts focus around Python-based development.
-
+Track record and experience in Applied AI techniques, Machine Learning and Data Science Technologies. My past experience in software, data science and programming extends over a decade and a half, with expertise developed on a range of professional and personal projects. I'm passionate and love working with technology, learning new skills, and working across a variety of programming languages. Currently my main efforts focus around Python-based development.
 
 ## Some past projects:
 
